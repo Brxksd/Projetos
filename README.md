@@ -1,8 +1,8 @@
 # Projetos
  Primeiro repositório para armazenamento de programas em desenvolvimento.
 
- Repositório privado a fim de: 
- - Guardar meus projetos em C e Python;
+ Repositório público a fim de: 
 
+ - Guardar alguns dos meus projetos em C e Python durante os estudos;
  - Aprender sobre Git e GitHub.
  
