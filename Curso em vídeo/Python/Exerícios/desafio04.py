@@ -1,0 +1,8 @@
+str = input('Digite algo e veja suas informações\n-> ')
+print('\nTipo: ',type(str))
+print('\nÉ numérico? ',str.isnumeric())
+print('\nÉ alfabético? ',str.isalpha())
+print('\nÉ alfanumérico? ',str.isalnum())
+print('\nEstá em maiúsculas? ',str.isupper())
+print('\nEstá em minúsculas? ',str.islower())
+print('\nEstá capitalizado? ',str.istitle())
