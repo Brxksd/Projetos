@@ -1,4 +1,4 @@
-# Arquivos de Compilação de C (Padrão)
+.vscode/
 *.o
 *.obj
 *.so
