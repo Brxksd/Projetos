@@ -1,0 +1,12 @@
+# Arquivos de Compilação de C (Padrão)
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+a.out
+*.exe
+*.dSYM/
+*.pdb
+
+output/
