@@ -6,4 +6,4 @@ h = float(input('\nQual é a altura da parede?\n-> '))
 a = l * h
 t = a / 2
 
-print('\nA área da parede é de {:.3f}m2, e serão necessários {:.2f} litros de tinta para pinta-la completamente.'.format(a,t))
+print('\nA área da parede é de {:.1f}m², e serão necessários {:.1f} litros de tinta para pinta-la completamente.'.format(a,t))
