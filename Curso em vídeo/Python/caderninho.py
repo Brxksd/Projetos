@@ -15,13 +15,19 @@
 
 ## Algumas funções da biblioteca math:
 
-## pow | Fazer a potência de um número por X valor
+
 ## sqrt | Calcular a raiz quadrada de um número
+## hypot | Calcular a hipotenusa de um triangulo, levando como
+##   parâmetros o cateto oposto e o cateto adjacente
+
 ## ceil | Arredondar um número para cima
 ## floor | Arredondar um número para baixo
-## trunc | "Truncar" um número, eliminando tudo que tiver da 
-## vírgula pra frente, ou seja, vai mostrar a parte inteira
+
+## pow | Fazer a potência de um número por X valor
 ## factorial | Calcular o fatorial de um número
+
+## trunc | "Truncar" um número, eliminando tudo que tiver da 
+##   vírgula pra frente, ou seja, vai mostrar a parte inteira
 
 # --------------------------------------------------------------
 
@@ -29,6 +35,9 @@
 
 ## random | Escolhe um número real aleatório
 ## randint | Escolhe um número inteiro aleatório
+
+## choice | Escolhe um elemento aleatório de uma lista
+## shuffle | Mistura os elementos de uma lista
 
 # ==============================================================
 
