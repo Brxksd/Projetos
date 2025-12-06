@@ -6,6 +6,32 @@
 
 # ==============================================================
 
+## Bibliotecas em Python
+
+# --------------------------------------------------------------
+
+# import math # importará TODA a biblioteca math
+# from math import sqrt # importará APENAS a função sqrt da biblioteca
+
+## Algumas funções da biblioteca math:
+
+## pow | Fazer a potência de um número por X valor
+## sqrt | Calcular a raiz quadrada de um número
+## ceil | Arredondar um número para cima
+## floor | Arredondar um número para baixo
+## trunc | "Truncar" um número, eliminando tudo que tiver da 
+## vírgula pra frente, ou seja, vai mostrar a parte inteira
+## factorial | Calcular o fatorial de um número
+
+# --------------------------------------------------------------
+
+## import random
+
+## random | Escolhe um número real aleatório
+## randint | Escolhe um número inteiro aleatório
+
+# ==============================================================
+
 # num1 = int(input('Digite o 1º número\n->'))
 # num2 = int(input('\nDigite o 2º número\n->'))
 # s = num1 + num2
@@ -19,7 +45,7 @@
 
 # ==============================================================
 
-## Aqui eu to vendo ordem de procedimentos aritméticos:         
+## Aqui eu estou vendo ordem de procedimentos aritméticos:         
 ##   1º (), [], {}                                              
 ##   2º **                                                      
 ##   3º *, /, //, %                                             
@@ -36,22 +62,4 @@
 # print('Raiz de {}: {}'.format(n,raiz))
 
 # ==============================================================
-
-## Bibliotecas em Python
-
-# import math # importará TODA a biblioteca math
-# from math import sqrt # importará APENAS a função sqrt da biblioteca
-
-## Algumas funções da biblioteca math:
-
-## pow | Fazer a potência de um número por X valor
-## sqrt | Calcular a raiz quadrada de um número
-## ceil | Arredondar um número para cima
-## floor | Arredondar um número para baixo
-## trunc | "Truncar" um número, eliminando tudo que tiver da 
-## vírgula pra frente, ou seja, vai mostrar a parte inteira
-## factorial | Calcular o fatorial de um número
-
-# ==============================================================
-
 
