@@ -1,3 +1,5 @@
+ONLY LINUX | 
+
 Em Python, eu usei as seguintes bibliotecas, e para testar alguns exercícios você precisará instala-las usando "pip install <nome-da-biblioteca>":
 
 1. soundplay
