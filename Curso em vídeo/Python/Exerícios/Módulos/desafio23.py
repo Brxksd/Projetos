@@ -6,4 +6,3 @@ d = num[2]
 u = num[3]
 
 print('\nUnidade: {}\nDezena: {}\nCentena: {}\nMilhar: {}\n'.format(u,d,c,m))
- 
