@@ -120,3 +120,15 @@
 
 # ==============================================================
 
+# Exemplo de uma lista de palavras
+# minha_lista = ["banana", "maçã", "laranja", "abacaxi", "uva"]
+
+# Acessando a última palavra usando indexação negativa
+# ultima_palavra = minha_lista[-1]
+
+# Imprimindo o resultado
+# print(f"A lista é: {minha_lista}")
+# print(f"A última palavra é: {ultima_palavra}")
+
+# ==============================================================
+
