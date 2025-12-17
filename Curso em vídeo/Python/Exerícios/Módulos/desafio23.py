@@ -1,4 +1,4 @@
-num = input('Digite um número entre 0 e 9999 (use o formato XXXX):\n-> ')
+num = str(input('Digite um número entre 0 e 9999 (use o formato XXXX):\n-> '))
 
 m = num[0]
 c = num[1]

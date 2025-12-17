@@ -1,4 +1,4 @@
-frase = input('Digite uma frase:\n-> ')
+frase = str(input('Digite uma frase:\n-> '))
 
 num = frase.count('a') + frase.count('A')
 pri = frase.lower().find('a')

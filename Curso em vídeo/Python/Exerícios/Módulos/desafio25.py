@@ -1,4 +1,4 @@
-nome = input('Digite o seu nome:\n-> ')
+nome = str(input('Digite o seu nome:\n-> '))
 
 if 'Silva' in nome :
     print('\nO seu nome tem Silva.\n')

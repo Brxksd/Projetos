@@ -1,4 +1,4 @@
-frase = input('Digite uma frase\n-> ')
+frase = str(input('Digite uma frase\n-> '))
 
 frasenew = frase.split()
 frasejunta = ''.join(frasenew)
